@@ -1,0 +1,2 @@
+# springboot-web
+springboot整合web层，利用thymleaf作为模板引擎，实现登录拦截器与html的视图映射
